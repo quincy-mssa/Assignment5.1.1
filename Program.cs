@@ -2,6 +2,14 @@
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Assignment5._1._1
+    //Given an integer x, return true if x is a palindrome, and false otherwise
+    //Example 1:
+    //Input: x = 121
+    //Output: true
+    //Explanation: 121 reads as 121 from left to right and from right to left.
+    //Example 2:
+    //Input: x = -121
+    //Output: false
 {
     internal class Program
     {
